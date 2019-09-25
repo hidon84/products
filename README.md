@@ -28,3 +28,4 @@ public class RestTemplateConfig {
 
 
 상품 추가
+트리거확인
